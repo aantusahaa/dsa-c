@@ -79,4 +79,6 @@ int main() {
   dequeue(queue);
   dequeue(queue);
   display(queue);
+
+  return 0;
 }
